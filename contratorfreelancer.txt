@@ -1,0 +1,33 @@
+Contrato de Prestação de Serviços de Desenvolvimento Web
+
+Entre o(a) prestador(a) de serviços, [Seu Nome Completo], inscrito no CPF sob o número [Seu CPF], residente e domiciliado na [Seu Endereço], doravante denominado PRESTADOR, e a empresa [Nome da Empresa Cliente], inscrita no CNPJ sob o número [CNPJ da Empresa], com sede em [Endereço da Empresa], doravante denominada CLIENTE, é firmado o presente contrato de prestação de serviços de desenvolvimento web, que se regerá pelas cláusulas e condições seguintes:
+CLÁUSULA 1 - DO OBJETO
+1.1. Constitui objeto deste contrato a prestação do serviço de desenvolvimento de website(s), e demais soluções digitais conforme demanda especificada pelo CLIENTE, descritas em detalhes no anexo I deste contrato.
+1.2. Descrição dos Serviços Inclusos:
+Os serviços a serem prestados pelo PRESTADOR estão detalhados conforme abaixo:
+[Descrever os serviços inclusos]
+CLÁUSULA 2 - DA VIGÊNCIA
+2.1. O presente contrato terá a vigência de [Inserir Vigência do Contrato] dias, iniciando-se na data de sua assinatura e podendo ser renovado de acordo com o interesse das partes.
+CLÁUSULA 3 - DO PREÇO E FORMA DE PAGAMENTO
+3.1. Pelo serviço prestado, o CLIENTE pagará ao PRESTADOR o valor de [Valor do Serviço] reais (R$).
+3.2. O pagamento será realizado em uma única parcela, na data de assinatura deste contrato.
+CLÁUSULA 4 - DAS OBRIGAÇÕES DO PRESTADOR
+4.1. É obrigação do PRESTADOR entregar o projeto finalizado no prazo estipulado e com a qualidade técnica esperada.
+4.2. O PRESTADOR compromete-se a manter confidencialidade de todas as informações fornecidas pelo CLIENTE durante a vigência deste contrato.
+CLÁUSULA 5 - DAS OBRIGAÇÕES DO CLIENTE
+5.1. O CLIENTE deverá fornecer ao PRESTADOR todas as informações necessárias para a execução do serviço contratado.
+5.2. O CLIENTE compromete-se a realizar os pagamentos nas datas estipuladas.
+CLÁUSULA 6 - DA RESCISÃO
+6.1. Este contrato poderá ser rescindido por qualquer uma das partes, com aviso prévio de 30 (trinta) dias, sem que haja qualquer ônus para a parte que tomar a iniciativa da rescisão.
+CLÁUSULA 7 - DAS ALTERAÇÕES
+7.1. Qualquer alteração neste contrato deverá ser feita por escrito e assinada por ambas as partes.
+CLÁUSULA 8 - DO FORO
+8.1. Fica eleito o foro da comarca de [Sua Cidade], para dirimir quaisquer questões oriundas deste contrato.
+
+
+
+Assinam este contrato em duas vias de igual teor
+PRESTADOR: [Seu Nome Completo]
+Data: [Data da assinatura]
+CLIENTE: [Nome da Empresa Cliente]
+Data: [Data da assinatura]
